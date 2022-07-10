@@ -1,3 +1,3 @@
 # PopUpLesson
 
-Understanding some javafx tricks to work with PopUp windows  
+Understanding some Javafx tricks to work with Pop-Up windows
